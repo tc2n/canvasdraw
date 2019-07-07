@@ -1,0 +1,14 @@
+{
+  "name": "canvasdraw",
+  "version": "1.0.0",
+  "description": "A simple app which demo the drawing on canvas",
+  "main": "script.js",
+  "scripts": {
+    "watch:sass": "node-sass main.scss style.css -w"
+  },
+  "author": "tc2n",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
